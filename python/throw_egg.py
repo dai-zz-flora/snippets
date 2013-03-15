@@ -68,10 +68,3 @@ def print_solution(S):
         if(x==next or x == n-1):
             break;
         
-P1,S1 = throw_two_eggs(10);
-print_solution(S1);
-
-
-
-P2,S2 = throw_z_eggs(10,2);
-print_solution(S2[1]);
